@@ -43,6 +43,7 @@ img {
     block-size: 100%;
 }
 
+
 /* estilos for qr */
 .qrContainer {
     display: flex;
@@ -85,4 +86,3 @@ img {
     letter-spacing: .2px;
     margin-block-end: 0;
 }
-
